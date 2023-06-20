@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\08edu02\Desktop\SolucionEjemplo\ProyectoEjemplo\main.cpp(37,26): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\08edu02\Desktop\SolucionEjemplo\ProyectoEjemplo\main.cpp(37,21): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\08edu02\Desktop\SolucionEjemplo\ProyectoEjemplo\main.cpp(38,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\08edu02\Desktop\SolucionEjemplo\ProyectoEjemplo\main.cpp(39,21): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+  ProyectoEjemplo.vcxproj -> C:\Users\08edu02\Desktop\SolucionEjemplo\x64\Debug\ProyectoEjemplo.exe
